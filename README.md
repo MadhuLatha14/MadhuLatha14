@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Koduru Madhu Latha</h1>
-<h3 align="center">An aspiring Software Engineer from India passionate about Full-Stack Development, Machine Learning, and Artificial Intelligence, transforming ideas into innovative and user-centric digital solutions.rom India</h3>
+<h3 align="center">An aspiring Software Engineer from India passionate about Full-Stack Development, Machine Learning, and Artificial Intelligence, transforming ideas into innovative and data-driven solutions that create real-world impact.</h3>
 
 - 🔭 I’m currently working on [SynergyKart - E-commerce Search & Recommendation System](https://github.com/MadhuLatha14/SynergyKart)
 
